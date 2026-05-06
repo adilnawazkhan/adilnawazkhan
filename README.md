@@ -2,7 +2,7 @@
 
 **IoT & Data Science Student** based in Tampere, Finland
 
-I'm a first-year Bachelor's student in Internet of Things at Savonia University of Applied Sciences. I'm passionate about turning raw data into clear, visual insights — and building tools that make complex information easy to understand.
+I'm a Bachelor's student in Internet of Things at Savonia University of Applied Sciences. I'm passionate about turning raw data into clear, visual insights — and building tools that make complex information easy to understand.
 
 ## What I'm working with
 
